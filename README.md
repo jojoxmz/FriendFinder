@@ -14,8 +14,8 @@ In this app, I have build a compatibility-based "FriendFinder" application -- ba
 
 ## App Functionality
 * You can access the survey from the homepage:
-  * ![Homepage Image](./Assets/Images/homepage.JPG)
+![Homepage Image](./Assets/Images/homepage.JPG)
 
 * The survey consists of 10 questions for the user, the final score from the user's input will determine the user's most compatible friend. 
    * Once your most compatible friend is found, a pop-up will appear with the name and picture of the closet match.
-     * ![Match Image](./Assets/Images/match.JPG)
+![Match Image](./Assets/Images/match.JPG)
