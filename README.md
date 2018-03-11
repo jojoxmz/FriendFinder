@@ -10,12 +10,15 @@ In this app, I have build a compatibility-based "FriendFinder" application -- ba
 * Heroku
 
 ## Link to Heroku
-[Link to Heroku!](https://tranquil-mesa-48986.herokuapp.com/)
+[Visit the Page!](https://tranquil-mesa-48986.herokuapp.com/)
 
 ## App Functionality
 * You can access the survey from the homepage:
 ![Homepage Image](./Assets/Images/homepage.JPG)
 
-* The survey consists of 10 questions for the user, the final score from the user's input will determine the user's most compatible friend. 
+* The survey will consists of 10 questions:
+![Homepage Image](./Assets/Images/survey.JPG)
+
+* The final score from the user's input will determine the user's most compatible friend.
    * Once your most compatible friend is found, a pop-up will appear with the name and picture of the closet match.
 ![Match Image](./Assets/Images/match.JPG)
