@@ -8,6 +8,8 @@ In this app, I have build a compatibility-based "FriendFinder" application -- ba
 * Path
 * Body-parser
 * Heroku
+* JQuery
+* Bootstrap
 
 ## Link to Heroku
 [Visit the Page!](https://tranquil-mesa-48986.herokuapp.com/)
